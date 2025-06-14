@@ -163,6 +163,14 @@ header {
   padding-bottom: 80px;
   text-align: center;
 }
+.coffee-shop-wrapper {
+  background-color: #2f2f2f;
+  padding: 40px 0;
+  text-align: center;
+}
+.coffee-shop-wrapper img {
+  max-width: 100%;
+}
 
 .message {
   padding: 15px 40px;
